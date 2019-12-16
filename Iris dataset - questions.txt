@@ -1,0 +1,13 @@
+Use given Iris dataset and solve the following questions:
+
+1.show the count of different types of species
+2.find the max,m and mean in values of Sepallength, petallength, sepalwidth and petalwidth
+draw a graph:
+3.scatterplot(for sepallength and petallength)
+4.bargraph
+5.jointplot(for sepallength and sepalwidth)
+6.facetgrid(for sepallength and sepalwidth for all species)
+7.boxplot(for species and sepalwidth)
+8.boxplot & stripplot(for sepallength and all species)
+9.violinplot(for petallength and all species) 
+10.pairplot(for all 4 columns with species)
